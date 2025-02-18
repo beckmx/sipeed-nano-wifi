@@ -1,3 +1,10 @@
+#Traceback (most recent call last):
+#  File "<stdin>", line 33, in <module>
+#Exception: IDE interrupt
+#MicroPython v0.5.0-63-g2d307ae on 2020-05-11; Sipeed_M1 with kendryte-k210
+#Type "help()" for more information.
+#>>>
+
 import sensor, image, time
 
 sensor.reset()
